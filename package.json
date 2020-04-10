@@ -4,6 +4,7 @@
   "description": "Math utils",
   "main": "dist/math-utils",
   "scripts": {
+    "prepublishOnly": "npm run build",
     "dev": "webpack --mode=development --watch",
     "build": "webpack --mode=production",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
