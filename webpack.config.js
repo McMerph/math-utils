@@ -12,8 +12,5 @@ module.exports = {
     globalObject: 'this',
   },
   devtool: 'source-map',
-  optimization: {
-    runtimeChunk: true,
-  },
   plugins: [new CleanWebpackPlugin()],
 }
