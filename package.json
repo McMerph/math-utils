@@ -1,5 +1,5 @@
 {
-  "name": "math-utils",
+  "name": "@mcmerphy/math-utils",
   "version": "1.0.0",
   "description": "Math utils",
   "main": "dist/math-utils",
