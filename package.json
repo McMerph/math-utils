@@ -1,6 +1,6 @@
 {
   "name": "@mcmerphy/math-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Math utils",
   "main": "dist/math-utils",
   "scripts": {
