@@ -9,6 +9,7 @@ module.exports = {
     filename: 'math-utils.js',
     library: 'mathUtils',
     libraryTarget: 'umd',
+    globalObject: 'this',
   },
   devtool: 'source-map',
   optimization: {
